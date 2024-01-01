@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen)]
+[![MasterHead](https://giphy.com/gifs/SWoSkN6DxTszqIKEqv/fullscreen)]
 <h1 align="center">Hi 👋, I'm Rajnish Pandey</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
